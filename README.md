@@ -1,6 +1,6 @@
 # Basic Quantum Circuit Simulator
 
-A lightweight, object-oriented quantum circuit simulator built entirely from scratch using Python and NumPy. This project models the time evolution of multi-qubit systems through pure linear algebra, bypassing black-box quantum frameworks to explicitly demonstrate the underlying computational physics.
+This project models the time evolution of multi-qubit systems through pure linear algebra, bypassing black-box quantum frameworks to explicitly demonstrate the underlying computational physics.
 
 ## Core Quantum Concepts
 
